@@ -1,0 +1,61 @@
+html {
+  background: #977AD4;
+  color: #ffffff;
+  margin: auto;
+  text-align: center;
+
+}
+
+body {
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+
+h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 2.5em;
+  margin: auto;
+  text-align: center;
+
+}
+
+h2 {
+  font-size: 1.8em;
+  
+}
+
+.tabs {
+  margin-top: 50px;
+  margin-bottom:20px;
+}
+
+.tabs .tab {
+  background: #000;
+  padding: 8px;
+}
+
+.tabs .active {
+  background: #ccc;
+  border: 1px solid black;
+  border-bottom-width: 0;
+}
+
+.content .tab {
+  display: none;
+  padding: 20px;
+}
+
+.content .active {
+  display: block;
+}
+
+#aTask, #Edit {
+  margin: auto;
+  width: 90%;
+  background-color: #000000; 
+  border:2px solid;
+  border-radius:25px;
+  -moz-border-radius:25px;
+  padding:5px;
+};
+
