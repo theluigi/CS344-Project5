@@ -1,3 +1,5 @@
+/*jslint indent:4*/
+/*global */
 var main = function () {
     console.log("hello world!");
 

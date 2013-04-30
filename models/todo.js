@@ -1,3 +1,5 @@
+/*jslint indent:4*/
+/*global */
 var mongoose = require("mongoose"),
     TodoSchema,
     Todo;

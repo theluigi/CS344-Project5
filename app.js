@@ -1,3 +1,5 @@
+/*jslint indent:4*/
+/*global */
 var http = require("http"),
     express = require("express"),
     path = require("path"),

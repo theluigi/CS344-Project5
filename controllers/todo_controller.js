@@ -1,3 +1,5 @@
+/*jslint indent:4*/
+/*global */
 var Todo = require("../models/todo.js"),
     TodoController = {};
 
