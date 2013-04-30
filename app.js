@@ -5,7 +5,7 @@ var http = require("http"),
     todoc;
 
 // Load Controllers
-todoc = require("./controllers/person_controller.js");
+todoc = require("./controllers/todo_controller.js");
 
 app.configure(function () {
     // Define our static file directory, it will be 'public'                             
